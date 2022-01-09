@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* resize page view */
 main {
     width: 75%;
     display: inline-block;
@@ -193,7 +193,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* rename footer attributes to correct syntax */
 footer {
     padding: 30px;
     clear: both;
